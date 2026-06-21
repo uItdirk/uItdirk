@@ -19,4 +19,4 @@
 <img width="101" height="57" alt="tumblr_fbd20a1876c85e517a727c1c55954b0e_60453d70_250" src="https://github.com/user-attachments/assets/f38691f3-9cfe-4fc4-ab2c-2591a1fd3299" />
 
    
-###### <sub>[![ata]<img width="150" height="20" alt="f75a28d3f82f19d0fe9214fd4eff5edc6277ab52" src="https://github.com/user-attachments/assets/9d7feab9-9dd0-4cc6-b1df-a33856d1f671" />](Destination_URL)
+###### <sub>[![ata]<img width="150" height="20" alt="f75a28d3f82f19d0fe9214fd4eff5edc6277ab52" src="https://github.com/user-attachments/assets/05ef4d96-d6f8-4b4b-ad43-99f28a55d159" />](https://ultimatedirk.atabook.org/?page=1)
