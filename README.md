@@ -27,4 +27,7 @@
 ###### <sub>[![ata]<img width="230" height="28" alt="f75a28d3f82f19d0fe9214fd4eff5edc6277ab52" src="https://github.com/user-attachments/assets/05ef4d96-d6f8-4b4b-ad43-99f28a55d159" />](https://ultimatedirk.atabook.org/?page=1)
 *Click above 4 Ata*
 *I'll probably work on this later this is giving me a headache bye*
+
+<div align="center">
+
 <img width="147" height="238" alt="tumblr_40ba7b7e582939573f82732da8d16100_36b428c9_250" src="https://github.com/user-attachments/assets/3695e35c-c172-45c4-bbc7-52cca9a1857c" />
